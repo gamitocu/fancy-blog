@@ -1,5 +1,5 @@
 import React, { Component } from'react';
-import { Link, Route } from'react-router-dom';
+import { Link } from'react-router-dom';
 import posts from'../data/posts';
 import Menu from'../components/menu';
 
